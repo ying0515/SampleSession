@@ -2,8 +2,7 @@
 *  ASP.NET Core MVC 7
 *  Microsoft.AspNetCore.Mvc.NewtonsoftJson 7.0.10
 *  Autofac.Extensions.DependencyInjection 8.0.0
-
-Mutil Layer
+*  Mutil Layer
 
     //(1)Session標準作法
     HttpContext.Session.SetString("code", "1234");
